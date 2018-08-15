@@ -1,0 +1,37 @@
+<q-list highlight style='width:100%' class='flex flex-center'>
+  <q-item multiline >
+    <q-item-side>
+      <q-item-tile avatar>
+        <img src="https://picsum.photos/200/300
+">
+      </q-item-tile>
+    </q-item-side>
+    <q-item-main  ><q-item-tile label>{{name}} &nbsp<span style='font-size:90%'><q-icon name="timelapse" />
+10 min ago</span>  </q-item-tile><q-item-tile sublabel>"They asked my daughter Ivanka whether or not the media is the enemy of the people. She correctly said no," Trump wrote on Twitter on August 2. "It is the FAKE NEWS, which is a large percentage of the media, that is the enemy of the people!"</q-item-tile><q-card-actions class='row no-wrap scroll'>
+        <q-btn flat dense  icon="keyboard_arrow_up" class='capitalize' />
+       <div class='row self-center'>2134</div>
+        <q-btn flat dense icon="keyboard_arrow_down" class='capitalize' />
+        <q-btn flat dense icon="reply" class='capitalize' label='91K replies'/>
+        <q-btn  flat dense icon="more_vert" />
+</q-card-actions></q-item-main>
+    
+  </q-item>
+  <q-item multiline class='q-ml-xl'>
+    <q-item-side>
+      <q-item-tile avatar>
+        <img src="https://picsum.photos/200/300
+">
+      </q-item-tile>
+    </q-item-side>
+    <q-item-main  ><q-item-tile label>Ajay Kumar</q-item-tile><q-item-tile sublabel>"They asked my daughter Ivanka whether or not the media is the enemy of the people. She correctly said no," Trump wrote on Twitter on August 2. "It is the FAKE NEWS, which is a large percentage of the media, that is the enemy of the people!"</q-item-tile><q-card-actions class='row no-wrap scroll'>
+        <q-btn flat dense  icon="keyboard_arrow_up" class='capitalize' />
+       <div class='row self-center'>2134</div>
+        <q-btn flat dense icon="keyboard_arrow_down" class='capitalize' />
+        <q-btn flat dense icon="reply" class='capitalize' label='91K replies'/>
+        <q-btn  flat dense icon="more_vert" />
+</q-card-actions></q-item-main>
+    
+  </q-item>
+  
+  
+</q-list>
